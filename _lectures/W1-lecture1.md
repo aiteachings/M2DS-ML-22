@@ -5,8 +5,10 @@ title: "TD 1"
 tldr: "TD 1"
 thumbnail: /_images/lecture.jpeg
 links: 
-    - url: /static_files/td/td1.pdf
-      name: TD 1
+    - url: /static_files/td/td1sol.pdf
+      name: TD 1 - Solution
+    - url: /static_files/td/td1sol.pdf
+      name: TD 1 - Solution
 
 ---
 <!-- **Suggested readings & references:**
